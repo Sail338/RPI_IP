@@ -1,4 +1,5 @@
 #!/bin/sh
+sudo netctl start uni
 cd /home/alarm/update_ip/
 hostname -i > ip.log
 git add .
