@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /home/alarm/RPI_IP/
+cd /home/pi/RPI_IP/
 hostname -i > 0.log
 git add .
 git commit -m"updatew ip"
