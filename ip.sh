@@ -1,5 +1,4 @@
 #!/bin/sh
-sudo netctl start uni
 cd /home/alarm/RPI_IP/
 hostname -i > ip.log
 git add .
